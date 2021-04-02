@@ -2,7 +2,9 @@
 A test repository, to get familiar with posting projects to Github.
 
 
-[**Dictionary**](dictionary)
+## Projects :
+
+[**1. Dictionary**](dictionary)
 
 
 This project, as the name suggests, is a simple dictionary program using a .json file([*data.json*](dictionary/data.json)) as the dictionary dataset.
