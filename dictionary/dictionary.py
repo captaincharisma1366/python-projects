@@ -22,3 +22,4 @@ def return_word(key):
 key = input("Enter word: ").lower()
 answer = return_word(key)
 print("\n".join(answer))
+
