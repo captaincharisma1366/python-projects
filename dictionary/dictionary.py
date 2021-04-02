@@ -2,7 +2,7 @@ import json
 import difflib
 from difflib import get_close_matches as matcher
 
-data = json.load(open("data.json"))
+data = json.load(open("data.json")) #the path changes with the exact location where data.json is stored locally
 
 def return_word(key):
     if key in data:
