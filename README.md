@@ -1,4 +1,4 @@
-# python-projects
+# Python Projects
 A test repository, to get familiar with posting projects to Github.
 
 
